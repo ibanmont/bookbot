@@ -1,0 +1,5 @@
+# Its typically best practice to only commit code to your repository, not data.
+# We don't want to save the entire book in our Git repository. Generally speaking, Git is for code, not for data.
+
+/books
+__pycache__
